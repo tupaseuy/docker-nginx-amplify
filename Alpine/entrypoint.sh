@@ -17,8 +17,8 @@
 agent_conf_file="/etc/amplify-agent/agent.conf"
 agent_log_file="/var/log/amplify-agent/agent.log"
 nginx_status_conf="/etc/nginx/conf.d/stub_status.conf"
-api_key=""
-amplify_imagename=""
+api_key="029f09bcb6c5f95833fc15497796a468"
+amplify_imagename="tupase"
 
 # Launch nginx
 echo "starting nginx ..."
