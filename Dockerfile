@@ -1,4 +1,4 @@
-FROM nginx:1.13
+FROM nginx:1.19.9
 MAINTAINER NGINX Amplify Engineering
 
 # Install the NGINX Amplify Agent
